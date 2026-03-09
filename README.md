@@ -26,5 +26,4 @@ This is my personal portfolio website, built to showcase my projects, skills, an
 
 ## How to View Locally
 To View this Webiste, Please copy the following 
-https://iseefoxes.github.io/Portfolio/
-
+ https://iseefoxes.github.io/Portfolio/
